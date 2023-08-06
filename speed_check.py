@@ -16,7 +16,6 @@ def estimateSpeed(location1, location2):
 	# ppm = location2[2] / carWidht
 	ppm = 8.8
 	d_meters = d_pixels / ppm
-	#print("d_pixels=" + str(d_pixels), "d_meters=" + str(d_meters))
 	fps = 18
 	speed = d_meters * fps * 3.6
 	return speed
