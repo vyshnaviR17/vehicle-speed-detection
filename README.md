@@ -4,7 +4,7 @@
 
 Technologies used :
 - Python
-- opencv
+- openCV
 - dlib
 <br>
 
